@@ -1,3 +1,3 @@
-# MyJavaProject
-The Java Code in This Project.
-#Hello Everybody This My First test in GitHub!
+# JavaProject
+
+一些自己平时练手的Demo，包括算法，数据结构，设计模式等。
