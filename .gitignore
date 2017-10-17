@@ -5,6 +5,8 @@
 */target/
 bin/
 
+out/
+
 # maven ignore
 target/
 *.war
