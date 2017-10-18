@@ -6,8 +6,6 @@ package com.cszjo.offer;
  */
 public class Demo8 {
 
-    private int count = 0;
-
     public int JumpFloor(int target) {
         if (target <= 2)
             return target;
