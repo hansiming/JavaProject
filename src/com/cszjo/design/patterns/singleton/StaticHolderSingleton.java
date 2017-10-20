@@ -1,4 +1,4 @@
-package com.cszjo.design.patterns.factory.singleton;
+package com.cszjo.design.patterns.singleton;
 
 /**
  * Created by hansiming on 2017/10/19.
