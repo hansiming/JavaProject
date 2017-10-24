@@ -28,7 +28,6 @@ public class Demo19 {
     }
     
     private void ensureCapacity(int size) {
-        // TODO Auto-generated method stub
         int len = elements.length;
         if(size > len){
             int newLen = (len*3)/2+1; //每次扩容方式
