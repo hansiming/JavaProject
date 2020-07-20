@@ -1,4 +1,4 @@
-package com.cszjo.data.structure;
+package com.cszjo.data.structure.tree;
 
 /**
  * Created by hansiming on 2017/10/19.
